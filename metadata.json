@@ -1,0 +1,7 @@
+{
+  "uuid": "bluetooth-battery@custom2",
+  "name": "Bluetooth Battery",
+  "description": "Shows Bluetooth battery level next to the date",
+  "shell-version": ["3.36", "3.38", "40", "41", "42", "43", "44"],
+  "version": 1
+}
